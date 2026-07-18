@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/banner.png" width="100%">
+  <img src="banner.png" width="100%">
 </p>
 
 <h1 align="center">📊 Retail Sales Analytics Dashboard</h1>
