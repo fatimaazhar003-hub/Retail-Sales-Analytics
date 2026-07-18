@@ -1,6 +1,23 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="Images/banner.png" width="100%">
 </p>
+
+<h1 align="center">📊 Retail Sales Analytics Dashboard</h1>
+
+<p align="center">
+An end-to-end Data Analytics project using <strong>Python</strong>, <strong>MySQL</strong>, and <strong>Power BI</strong> to analyze retail sales performance and generate actionable business insights.
+</p>
+
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-Data%20Modeling-blue?style=for-the-badge)
+
+</p>
+
+---
 
 # 📊 Retail Sales Analytics Dashboard
 
