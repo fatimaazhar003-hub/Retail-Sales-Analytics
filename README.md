@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/Banner.png" alt="Retail Sales Analytics Banner" width="100%">
+  <img src="Images/banner.png" alt="Retail Sales Analytics Banner" width="100%">
 </p>
 
 <br>
