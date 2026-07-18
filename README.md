@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="Images/Banner.png" alt="Retail Sales Analytics Banner" width="100%">
+</p>
+
+<br>
+
 # 📊 Retail Sales Analytics Dashboard
 
 ## 📌 Project Overview
